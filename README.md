@@ -74,9 +74,10 @@ B.Tech - Computer Science and Information Technology
 
 REVA University
 
-GitHub: https://github.com/harinandan27654514-collab
+GitHub: https://github.com/nharshanayak97-ctrl
 
-LinkedIn: # Google Gemma 4 12B IT - Model Card Analysis
+LinkedIn: https://www.linkedin.com/in/harsha-nayak-n-a39208412?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 
 ## Overview
 
